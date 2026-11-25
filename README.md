@@ -1,10 +1,12 @@
-# Sternenflug · Wildcoding
+# Sternenflug
+
+https://github.com/user-attachments/assets/e87130f3-08c0-40fa-b6d2-2c8f11c8156a
+
+[Demo-Video herunterladen](docs/demo-sternenflug.mp4) · 8 Sekunden · ohne Ton
 
 **Sterne, Lichtschweife und selbst gezeichnete Motive als eigene Quelle in OBS Studio.**
 
-Ein Wildcoding-Projekt für kreative Livestreams: Zeichne eine Kontur, löse sie aus und mische sie in den laufenden Sternenflug. Der Effekt entsteht direkt im nativen C++-/Qt-Plugin.
-
-![Sternenflug-Vorschau](docs/sternenflug.png)
+Für kreative Livestreams: Zeichne eine Kontur, löse sie aus und mische sie in den laufenden Sternenflug. Der Effekt entsteht direkt im nativen C++-/Qt-Plugin.
 
 ## Funktionen
 
